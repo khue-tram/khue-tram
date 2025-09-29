@@ -11,7 +11,7 @@ Former finance professional now studying business analytics to bridge data-drive
 - Business analytics for operational improvement and strategic decision-making
 - Data modeling and query optimization using SQL and NoSQL
 - Interactive dashboards and data visualization for stakeholder communication
-- ESG research and its impact on manufacturing performance
-- Teaching and documenting technical concepts for learners and non-technical audiences
+- ESG research and its impact on coporation performance
+- Technical concepts for learners and non-technical audiences
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/khue-tram/)
