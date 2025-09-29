@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Khue
 
-<!--
-**khue-tram/khue-tram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Former finance professional now studying business analytics to bridge data-driven insights with strategic decision-making. Passionate about SQL, NoSQL, Python, and data visualization.
 
-Here are some ideas to get you started:
+## 🔧 Projects
+- ☕ Coffee Reference Analysis (SQL & MySQL)
+- 📚 NoSQL Coffee Exploration (MongoDB)
+- 🐍 Streamlit Interactive (Python & Visualization)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Interests
+- Business analytics for operational improvement and strategic decision-making
+- Data modeling and query optimization using SQL and NoSQL
+- Interactive dashboards and data visualization for stakeholder communication
+- ESG research and its impact on manufacturing performance
+- Teaching and documenting technical concepts for learners and non-technical audiences
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/khue-tram/)
